@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: palpite-vip-online
-    env: node
-    buildCommand: echo ready
-    startCommand: npm start
